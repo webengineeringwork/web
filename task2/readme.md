@@ -45,7 +45,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;本项目产品致力于打造一个各类图书销售平台，一方面吸引各类图书出版社在该平台安置图书进行售卖，另一方面吸引读者在此平台购书。  
 &nbsp;&nbsp;&nbsp;&nbsp;本平台最终的盈利模式为对于图书售卖的抽成，同时也可以接受一些广告的投放。  
 &nbsp;&nbsp;&nbsp;&nbsp;本团队拥有优秀的建立网站的经验与能力，能够很好的完成项目的预期效果。  
-&nbsp;&nbsp;&nbsp;&nbsp;建立该网站使用的技术主要有：服务器使用Tomcat，数据库使用MySQL，使用JavaWeb开发技术，使用MVC开发模式，整体采用SSM框架+Maven管理方式。  
+&nbsp;&nbsp;&nbsp;&nbsp;建立该网站使用的技术主要有：服务器使用Tomcat，数据库使用MySQL，使用PHP后台开发技术，使用MVC开发模式。  
 
 ## 需求声明
 
