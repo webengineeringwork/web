@@ -1,7 +1,7 @@
 ﻿# 交互设计
 ## 直接了当的交互
 
-顶部导航栏![Alt text](./picture/1530186911293.png)  ![Alt text](./picture/1530186920620.png)![Alt text](./1530186927358.png)
+顶部导航栏![Alt text](./picture/1530186911293.png)  ![Alt text](./picture/1530186920620.png)![Alt text](./picture/1530186927358.png)
 
 搜索框![Alt text](./picture/1530186946961.png)
 
