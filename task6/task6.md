@@ -1,15 +1,15 @@
-# 交互设计
+﻿# 交互设计
 ## 直接了当的交互
 
-顶部导航栏![Alt text](./1530186911293.png)  ![Alt text](./1530186920620.png)![Alt text](./1530186927358.png)
+顶部导航栏![Alt text](./picture/1530186911293.png)  ![Alt text](./picture/1530186920620.png)![Alt text](./1530186927358.png)
 
-搜索框![Alt text](./1530186946961.png)
+搜索框![Alt text](./picture/1530186946961.png)
 
-页面导航![Alt text](./1530186959772.png)
+页面导航![Alt text](./picture/1530186959772.png)
 
-邮件信息![Alt text](./1530186968349.png)
+邮件信息![Alt text](./picture/1530186968349.png)
 
-购物![Alt text](./1530186976595.png)
+购物![Alt text](./picture/1530186976595.png)
 ***
 # 展示设计
 ## 多层架构
@@ -34,9 +34,9 @@
 书籍推荐——为用户推荐网站精选的图书
 ## 书籍页
 	书籍缩略图		         书籍详情	               分享链接
-![Alt text](./1530187409824.png)          ![Alt text](./1530187412688.png)        ![Alt text](./1530187416903.png)
+![Alt text](./picture/1530187409824.png)          ![Alt text](./picture/1530187412688.png)        ![Alt text](./picture/1530187416903.png)
 ## 购物车页
-![Alt text](./1530187487075.png)
+![Alt text](./picture/1530187487075.png)
 提供了所购图书的书名、单价、数量、总价。
 用户可选择继续浏览、结算或者刷新购物车。
 ***
